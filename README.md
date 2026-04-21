@@ -14,7 +14,7 @@
     ** Text Converter – TextConverter.java
 
         String manipulation, StringBuilder, case transformation.
-     ** Phone Book Manager** – `Main.java`
+     ** Phone Book Manager ** – `Main.java`
         Features: A polymorphic phone directory using a custom sorting key. Implements safe element removal during iteration.
         Concepts: Abstract classes (`Wpis`), Inheritance (`Osoba`, `Firma`), Interfaces (`Comparable`), Data Structures (`TreeMap`, `HashSet`), and Collection Iterators.
 
