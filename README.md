@@ -18,6 +18,11 @@
       
            Features: A polymorphic phone directory using a custom sorting key. Implements safe element removal during iteration.
            Concepts: Abstract classes (`Wpis`), Inheritance (`Osoba`, `Firma`), Interfaces (`Comparable`), Data Structures (`TreeMap`, `HashSet`), and Collection Iterators.
+      
+      Vector Addition Calculator** – `Main.java`, `WektoryLogika.java`, `WektoryRoznejDlugosciException.java`
+    
+          Features:** Strict input validation, interactive retry loop, and a custom exception mechanism that prevents operations on vectors of different sizes while providing informative error feedback.
+          Concepts:** Custom Exceptions (`extends Exception`), Error Handling (`try-catch`, `throws`), String Parsing (`split`, `Integer.parseInt`), `ArrayList` manipulation, and Separation of Concerns (business logic isolated from the UI).
 
 # 🛠 Tech Stack
 
