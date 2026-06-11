@@ -56,11 +56,6 @@ The architecture demonstrates the fundamental pillars of OOP:
       * `Piece` / `Checker` – Represents an individual checker with color and status properties.
       * `Player` – Models a participant, keeping track of their color, name, and score.
 
-## 🛠 Tech Stack
-
-* **Language:** Java (Version 11+)
-* **Build Tool:** Maven / Gradle / None *[Choose yours]*
-* **UI Framework:** Swing / JavaFX / CLI *[Choose yours]*
 
 ## 🏃 Getting Started
 
